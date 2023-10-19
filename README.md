@@ -5,9 +5,9 @@ It includes the necessary HTML, head, and body tags.
 
 **JavaScript Code:**
 JavaScript is included within the <script> tags.
-The window.onload event ensures that the JavaScript code executes when the page has fully loaded.**
-**Variables:**
+The window.onload event ensures that the JavaScript code executes when the page has fully loaded.
 
+**Variables:**
 A variable text is declared and initialized as an empty string.
 An array named myArray is declared to store three string values.
 
